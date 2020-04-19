@@ -1,2 +1,2 @@
 # projectHotelManagementSystem
-Hotel Management System, using java and mysql database.
+Hotel Management System, java and mysql database.
